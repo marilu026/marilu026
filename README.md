@@ -1,6 +1,7 @@
 ## Hi there 👋
-**Boas-Vindas!** https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hwZG80azZtdGYxcDFyMjgyM3Q5ZzZsZTFjODhnbXAyYmFwbGNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1fMjj5j2Z7chq/giphy.gif
-<!--
+**Boas-Vindas!** 
+Eu estou usando esse site para estudos!
+<div class="tenor-gif-embed" data-postid="13465728489229726846" data-share-method="host" data-aspect-ratio="1.0081" data-width="100%"><a href="https://tenor.com/view/pokemon-pikachu-clap-clapping-clapping-gif-gif-13465728489229726846">Pokemon Pikachu GIF</a>from <a href="https://tenor.com/search/pokemon-gifs">Pokemon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 **marilu026/marilu026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
